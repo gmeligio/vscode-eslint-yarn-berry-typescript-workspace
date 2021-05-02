@@ -1,0 +1,11 @@
+{
+  "name": "vscode-eslint-yarn-berry-typescript-workspace",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/gmeligio/vscode-eslint-yarn-berry-typescript-workspace.git",
+  "author": "Eligio Mariño <gmeligio@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@tsconfig/node12": "^1.0.7"
+  }
+}
