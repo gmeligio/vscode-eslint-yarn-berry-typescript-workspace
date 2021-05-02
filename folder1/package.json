@@ -1,0 +1,11 @@
+{
+  "name": "folder1",
+  "devDependencies": {
+    "@types/react": "^17.0.4",
+    "eslint": "^7.25.0",
+    "prettier": "^2.2.1"
+  },
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}

@@ -10,7 +10,8 @@
 	"settings": {
 		"typescript.tsdk": ".yarn/sdks/typescript/lib",
 		"typescript.enablePromptUseWorkspaceTsdk": true,
-		"eslint.nodePath": ".yarn/sdks",
+		// "eslint.nodePath": ".yarn/sdks",
+		"eslint.nodePath": "D:\\Workspace\\vscode-eslint-yarn-berry-typescript-workspace\\.yarn\\sdks",
 		"search.exclude": {
 			"**/.yarn": true,
 			"**/.pnp.*": true
